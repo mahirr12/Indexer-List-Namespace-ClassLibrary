@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\CodeAc\\Indexer, List, Namespace, ClassLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60E446A1-9A8F-45A5-A173-CD177194EFAA}|Indexer, List, Namespace, ClassLibrary.csproj|c:\\users\\admin\\desktop\\codeac\\indexer, list, namespace, classlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E446A1-9A8F-45A5-A173-CD177194EFAA}|Indexer, List, Namespace, ClassLibrary.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E446A1-9A8F-45A5-A173-CD177194EFAA}|Indexer, List, Namespace, ClassLibrary.csproj|c:\\users\\admin\\desktop\\codeac\\indexer, list, namespace, classlibrary\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E446A1-9A8F-45A5-A173-CD177194EFAA}|Indexer, List, Namespace, ClassLibrary.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E446A1-9A8F-45A5-A173-CD177194EFAA}|Indexer, List, Namespace, ClassLibrary.csproj|c:\\users\\admin\\desktop\\codeac\\indexer, list, namespace, classlibrary\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E446A1-9A8F-45A5-A173-CD177194EFAA}|Indexer, List, Namespace, ClassLibrary.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C9CC9E-7A0B-4988-8715-2252EBE2A82C}|..\\Helper\\ClassLib.csproj|c:\\users\\admin\\desktop\\codeac\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CodeAc\\Indexer, List, Namespace, ClassLibrary\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CodeAc\\Indexer, List, Namespace, ClassLibrary\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowCAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:43:12.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CodeAc\\Indexer, List, Namespace, ClassLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CodeAc\\Indexer, List, Namespace, ClassLibrary\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:09:35.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CodeAc\\Indexer, List, Namespace, ClassLibrary\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CodeAc\\Indexer, List, Namespace, ClassLibrary\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:33:51.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CodeAc\\Helper\\Helper.cs",
+              "RelativeDocumentMoniker": "..\\Helper\\Helper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CodeAc\\Helper\\Helper.cs",
+              "RelativeToolTip": "..\\Helper\\Helper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:14:44.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

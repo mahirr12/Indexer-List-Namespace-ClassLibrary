@@ -1,0 +1,18 @@
+C:\Users\Admin\Desktop\CodeAc\Indexer, List, Namespace, ClassLibrary\bin\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.exe
+C:\Users\Admin\Desktop\CodeAc\Indexer, List, Namespace, ClassLibrary\bin\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.deps.json
+C:\Users\Admin\Desktop\CodeAc\Indexer, List, Namespace, ClassLibrary\bin\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.runtimeconfig.json
+C:\Users\Admin\Desktop\CodeAc\Indexer, List, Namespace, ClassLibrary\bin\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.dll
+C:\Users\Admin\Desktop\CodeAc\Indexer, List, Namespace, ClassLibrary\bin\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.pdb
+C:\Users\Admin\Desktop\CodeAc\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CodeAc\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CodeAc\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CodeAc\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CodeAc\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.dll
+C:\Users\Admin\Desktop\CodeAc\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\refint\Indexer, List, Namespace, ClassLibrary.dll
+C:\Users\Admin\Desktop\CodeAc\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.pdb
+C:\Users\Admin\Desktop\CodeAc\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CodeAc\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\ref\Indexer, List, Namespace, ClassLibrary.dll
+C:\Users\Admin\Desktop\CodeAc\Indexer, List, Namespace, ClassLibrary\bin\Debug\net6.0\ClassLib.dll
+C:\Users\Admin\Desktop\CodeAc\Indexer, List, Namespace, ClassLibrary\bin\Debug\net6.0\ClassLib.pdb
+C:\Users\Admin\Desktop\CodeAc\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CodeAc\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\Indexer,.D373BF5C.Up2Date
